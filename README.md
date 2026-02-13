@@ -81,6 +81,8 @@ src/
 Clone the repository:
 
 git clone https://github.com/parsabdr-dev/gaming-products-UI-with-next.js-and-react.js.git
+
+
 cd gaming-products-UI-with-next.js-and-react.js
 
 
