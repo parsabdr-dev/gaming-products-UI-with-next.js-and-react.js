@@ -66,3 +66,4 @@ export const useGames = () => {
     changePage,
   };
 };
+console.log("API KEY:", process.env.NEXT_PUBLIC_RAWG_KEY);

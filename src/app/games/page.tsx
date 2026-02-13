@@ -1,4 +1,4 @@
-'use client';
+"use client";
 
 import { Box, Heading, SimpleGrid, Spinner, Text } from '@chakra-ui/react';
 import { useGames } from '@/features/games/useGames';
