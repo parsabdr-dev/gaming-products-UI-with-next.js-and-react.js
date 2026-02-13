@@ -39,12 +39,12 @@ Add screenshots like this:
 
 ## Screenshots
 
-![GameLibrary](./public/screenshots/home.png)
-![ActionGenre](Screenshots\ActionGenre.jpg)
-![SearchGame](./public/screenshots/details.png)
-![ShooterPs5](./public/screenshots/details.png)
-![StrategyPc](./public/screenshots/details.png)
-![GameDescription](./public/screenshots/details.png)
+![GameLibrary](src/Screenshots/GameLibrary.jpg)
+![ActionGenre](src/Screenshots/ActionGenre.jpg)
+![SearchGame](src/Screenshots/SearchGame.jpg)
+![ShooterPs5](src/Screenshots/ShooterPs5.jpg)
+![StrategyPc](src/Screenshots/StrategyPc.jpg)
+![GameDescription](src/Screenshots/GameDescription.jpg)
 
 
 
