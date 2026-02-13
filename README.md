@@ -33,6 +33,11 @@ Language: TypeScript
 API: RAWG
 
 
+Important Note: 
+If You Are In Iran You Most Likely Need a VPN Duo to Filtering Of The Api
+
+
+
 📸 Screenshots
 
 Add screenshots like this:
