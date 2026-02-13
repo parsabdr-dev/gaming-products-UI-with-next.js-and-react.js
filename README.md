@@ -40,7 +40,7 @@ Add screenshots like this:
 ## Screenshots
 
 ![GameLibrary](./public/screenshots/home.png)
-![ActionGenre](src\Screenshots\ActionGenre.jpg)
+![ActionGenre](Screenshots\ActionGenre.jpg)
 ![SearchGame](./public/screenshots/details.png)
 ![ShooterPs5](./public/screenshots/details.png)
 ![StrategyPc](./public/screenshots/details.png)
