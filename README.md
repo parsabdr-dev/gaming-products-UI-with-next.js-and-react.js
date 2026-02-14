@@ -84,34 +84,39 @@ src/
 
 Clone the repository:
 
-git clone https://github.com/parsabdr-dev/gaming-products-UI-with-next.js-and-react.js.git
+          git clone https://github.com/parsabdr-dev/gaming-products-UI-with-next.js-and-react.js.git
 
-
-cd gaming-products-UI-with-next.js-and-react.js
+          cd gaming-products-UI-with-next.js-and-react.js
 
 
 Install dependencies:
 
-npm install
+             npm install
 
 🔑 Environment Variables
 
 Create a .env.local file in the root directory:
 
-NEXT_PUBLIC_RAWG_KEY=your_rawg_api_key_here(mine was "069a66b858094120a5d46eefddb2a5f1")
+               NEXT_PUBLIC_RAWG_KEY=your_rawg_api_key_here
 
 
-Get your free API key from:
-👉 https://rawg.io/apidocs
+(mine was "069a66b858094120a5d46eefddb2a5f1")
 
 
-▶️ Run Development Server
-npm run dev
+
+Get your free API key from: 
+   👉 https://rawg.io/apidocs
+
+
+▶️ Run Development Server:
+     
+                 npm run dev
 
 
 Open:
 
-http://localhost:3000
+             http://localhost:3000
+
 
       
 🎨 Styling (Tailwind CSS v4)
@@ -180,4 +185,4 @@ Computer Engineering Graduate
 Passionate about Frontend & AI Development
 
 GitHub:
-https://github.com/parsabdr-dev
+         https://github.com/parsabdr-dev
